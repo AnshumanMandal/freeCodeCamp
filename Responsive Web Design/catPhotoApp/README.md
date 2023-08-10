@@ -1,2 +1,2 @@
 # catPhotoApp
-This is to keep track of my freeCodeCamp Journey
+Learn HTML by Building a Cat Photo App
